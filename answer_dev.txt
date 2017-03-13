@@ -1,0 +1,1051 @@
+89 31 America Panama Belize El Salvador
+89 33 Belize City CANA Mexico
+89 29 Belize
+89 47 Washington Belize Chicago
+89 1 Guatemala Belize
+90 nil nil
+90 nil nil
+90 nil nil
+90 nil nil
+90 nil nil
+91 21 Austria
+92 32 Voss Meyers Jiminez Meyer Sahm
+92 69 Dale Ron Eglit Stevie Ray Vaughan Dick
+92 49 Segovia
+92 93 Robert Dye Joey
+92 20 Verlaine
+93 82 Narasimha Rao
+93 63 Leonid Kotov Vladimir Shvedov
+93 48 Gandhi
+93 55 Galbraith
+93 0 Helmut Kohl
+94 nil nil
+94 nil nil
+94 nil nil
+94 nil nil
+94 nil nil
+95 54 Chuan Tran Duc Luong Nguyen Manh Cam Xuan Trinh Dau
+95 2 Khamphoui Keoboualapha Somsavat Lengsavat Osakan Thammatheva Seun Phetsanghan Bouason Boupphavan
+95 88 Vo Van Kiet Doan Khue Dang Vu Chu Tran Lum
+95 95 Khamtai Siphandon Chuan Likphai Saman Vi-gnaket Somsavat Lengsavat Prasong Sunsiri
+95 31 Khamtai Siphandon Khamphoui Keoboualapha Somsavat Lengsavat
+96 nil nil
+96 nil nil
+96 nil nil
+96 nil nil
+96 nil nil
+97 1 Paul Butterfield Blues Band James Cotton Zachary
+97 0 Jacek Lentz Brian Friedman
+97 0 Anubis Warpus
+97 2 Tom Cairns
+98 16 Montenegro Europe Macedonia Slovenia
+98 41 Montenegro
+98 14 Ohrid Montenegro Serbia
+98 30 Montenegro Boka Kotorska
+98 81 Europe Serbia Montenegro
+99 10 Howatson Harvey Apollo Joseph Fontenrose
+99 94 Johnny David Brenner
+99 4 Larissa Brian Marsden Mark Showalter
+99 5 Abraham
+100 2 Danube Vienna Germany Austria Czech Republic
+100 1 The Hague Bratislava Budapest Danube
+100 36 Slovakia Danube
+100 41 Danube
+101 1 East Dew
+101 0 Arizona
+101 1 East Dew Japan
+101 0 Ohio
+101 7 Washington
+102 17 Julie Parisien Tamara McKinney Eva Twardokens Edith Thys Toni Standteiner
+102 17 Matt Biondi JENNER Jackie Joyner-Kersee Jenner
+102 0 Tom Jager Matt Biondi Dave Berkoff Barrowman Pablo Morales Stewart
+102 0 Morales Evans Nicole Haislett Summer Sanders Gaines
+102 69 Julio Gonzales Patrice Brooks Kenneth Friday ALEX KOSTICH
+103 3 1944
+103 12 August 24
+103 0 Sunday
+103 1 Saturday
+103 2 24
+104 84 Amiran Sivan Mr Eytan Chichinski Michael Freedman Itzhak Lendsmann
+104 7 Rene Monory
+104 5 Serge Klarsfeld Nazi hunter Francois Mitterrand
+104 71 Bill Clinton
+104 6 Serge Klarsfeld Francois Mitterrand
+105 0 James Avanti Farnsworth
+105 1 Farnsworth David Sarnoff
+105 4 Vladimir Zworykin Philo
+105 0 Elma Farnsworth
+105 4 Hall William
+106 5 Gustave Whitehead Wright
+106 6 Huffman Prairie Wright
+106 5 Gordeuk
+106 2 Walter Ramazzini
+106 0 McClure
+107 1 Gustave Whitehead Wright
+107 3 Huffman Prairie Wright
+107 94 Donald
+107 0 Ferguson
+107 1 Gordeuk
+108 50 Tona Duncanson Jose Councilwoman Trixie Johnson Stevens Creek Eileen Goodwin
+108 22 Jim Shore Both Cano
+108 79 Marian Derek Wastila Tim DeWitt
+108 87 Ann Thompson Kern
+108 26 Wynn Brown John Alessio
+109 nil nil
+109 nil nil
+109 nil nil
+109 nil nil
+109 nil nil
+110 3 Hawaii Honolulu
+110 9 Kapaau Hawaii
+110 12 Toronto
+110 15 Hawaii
+110 45 Pollyanna
+111 4 Clark Kenesaw Mountain Landis
+111 26 Bart Giamatti Pete Rose
+111 67 Richard Hilton Bob Bernhart
+111 98 Jan van der Sande
+111 18 Chris Chesser
+112 nil nil
+112 nil nil
+112 nil nil
+112 nil nil
+112 nil nil
+113 0 Pickett Kim Holien
+113 9 Frederick Dusan Bratic
+113 7 Allen Nelson
+113 53 Abraham Lincoln
+113 17 Waterston
+114 16 Merced Sacramento CCSF Diablo Valley Laney San Mateo West
+114 62 Livermore Oakland Berkeley Bay Alameda County Hayward
+114 56 Scotts Valley
+114 0 Queens Nobles
+114 38 Kings River
+115 17 Gulf of Mexico
+115 11 New World
+115 3 Guatemala Santiago
+115 7 Andes
+115 15 Huehuetenango
+116 nil nil
+116 nil nil
+116 nil nil
+116 nil nil
+116 nil nil
+117 nil nil
+117 nil nil
+117 nil nil
+117 nil nil
+117 nil nil
+118 12 Kester
+118 14 John Tran
+118 15 Bill Lombardo Orchestra
+118 18 Coolidge
+118 8 Andrew Galloway
+119 17 Zahi Hawass
+119 6 Chephren
+119 9 Pharoah Amenemhet
+119 1 Hawass
+119 0 Mona Lisa
+120 8 New England
+120 1 Long Island N.Y. Philadelphia
+120 18 Maine
+120 0 Long Island N.Y.
+120 1 Portland Cape Elizabeth
+121 nil nil
+121 nil nil
+121 nil nil
+121 nil nil
+121 nil nil
+122 34 John Monks Charles Hoffman Lewis Meltzer Roy Huggins William Bowers
+122 33 Aylesworth Deborah Felder Margo McLoone-Basta Alice Siegel
+122 20 Lee Olson
+122 9 George Washington
+122 43 Mark Hoffman
+123 8 Baudhayan
+123 10 Earth
+123 3 Pythagoras
+124 83 Julius Caesar Lorena Bobbitt
+124 98 Julius Caesar Decimus Brutus
+124 98 Caesar Marcus Crassus Cicero
+124 95 Bogdanov Julius Caesar
+124 95 Terry McGinity Caesar
+125 42 Maurice Rheims
+125 42 Paul Picasso Emilienne
+125 10 Germaine Pichot Carlos Casegemas
+125 66 Olga Kokhlova
+125 3 Picasso Brooks
+126 13 Orinoco Strip Monagas Sucre
+126 4 Venezuela Orinoco Belt River
+126 12 Venezuela Western Hemisphere Orinoco Belt
+126 1 Orinoco River
+126 16 Yapacana Park Orinoco
+127 33 Sydney
+127 5 Australia Torres Strait
+127 1 Australia
+127 6 Custody
+128 nil nil
+128 nil nil
+128 nil nil
+128 nil nil
+128 nil nil
+129 nil nil
+129 nil nil
+129 nil nil
+129 nil nil
+129 nil nil
+130 63 Jean-Francois Lacan
+130 63 Lacan
+130 63 Patrice Pelat
+130 63 Lord MacGregor
+131 nil nil
+131 nil nil
+131 nil nil
+131 nil nil
+131 nil nil
+132 3 Azaria
+132 0 Azaria Australia
+132 3 Yulara Australia
+132 3 Outback
+132 3 Uluru
+133 74 1984
+133 54 1983
+133 72 Friday
+134 nil nil
+134 nil nil
+134 nil nil
+134 nil nil
+134 nil nil
+135 nil nil
+135 nil nil
+135 nil nil
+135 nil nil
+135 nil nil
+136 80 March June 24-Sept 28-Nov 15-Feb 1991
+136 62 8th century until the 15th
+136 74 1880 1885 1886
+136 65 late 1920s
+136 74 1981
+137 73 Crandall Junior College Douglas Morrow Gordon Agnes Scott
+137 0 David Tom
+137 3 James Higashida
+137 6 Bruce Butts
+137 16 Grace Kelly
+138 7 Forbes Walton Yoshiaki Tsutsumi Haruhiko Yoshimoto Kenneth Cole Irving
+138 6 Harry Helmsley Ted Turner Laurence Preston Tisch Carl Icahn David
+138 22 Icahn Ted Turner Kirk Kerkorian Ronald
+138 19 Elizabeth II
+138 8 Caroline Marie Getty George
+139 45 Taylor SHOFNER Jim Shofner Modell Tim Worley
+139 74 Fred Bruney Richard Williamson Nick Saban Bill Belichick
+139 58 Marty Schottenheimer Art Modell
+139 27 Gary John Robinson Gaston Green Browns
+139 46 Carson Zeke Bratkowski Jim Vechiarella Mike Faulkiner
+140 18 Rushdie
+140 1 Salman Rushdie
+140 1 Imam Ayatollah Khomeini
+140 0 Maqbool Ali-Kassam
+140 11 Rushdie Zakaria
+141 nil nil
+141 nil nil
+141 nil nil
+141 nil nil
+141 nil nil
+142 7 Beverly Joubert America
+142 60 Ohio Keene U.S.
+142 11 Sudan
+143 nil nil
+143 nil nil
+143 nil nil
+143 nil nil
+143 nil nil
+144 nil nil
+144 nil nil
+144 nil nil
+144 nil nil
+144 nil nil
+145 5 Bangkok Malays Thailand Burma. Southeast Asia India
+145 5 River Kwai
+145 68 Lisbon
+145 12 Atlanta Thailand
+145 19 NEW YORK
+146 37 James Jackson Robert Ferris Jonathan Segal Kettner
+146 37 Charles Moore Arthur Erickson Lewis Lorimer
+146 13 William Hebbard Irving Gill
+146 84 William Welles Bosworth
+146 3 Ron Roberts Mike Stepner Ernest Hahn
+147 nil nil
+147 nil nil
+147 nil nil
+147 nil nil
+147 nil nil
+148 17 Guam
+148 86 AGANA Guam Guam.
+148 1 U.S. Guam Northern Mariana Islands
+148 65 Guam U.S.
+148 66 Guam California
+149 91 Northern California
+149 91 Irvine. West Valley
+150 0 Europe Rhine Romania
+150 32 Romania
+150 22 Turkey Romania
+150 23 Romania Hungary
+150 52 Romania Rome
+151 nil nil
+151 nil nil
+151 nil nil
+151 nil nil
+151 nil nil
+152 93 Queen Maud Princess Martha Haakon
+152 79 Dick Cavett Hall Johnny Paycheck
+152 14 Queen Victoria
+152 84 Pope Clement
+152 91 King Edward III
+153 3 Icahn Ted Turner Kirk Kerkorian Ronald
+153 1 Elizabeth II
+153 75 Jennie Livingston
+153 28 Seymour Simpson
+153 47 Kim Chin-pom
+154 nil nil
+154 nil nil
+154 nil nil
+154 nil nil
+154 nil nil
+155 3 1945
+155 2 1986
+155 6 Night
+156 94 1993 July 93 August April 94
+156 47 1980s
+156 55 1987
+156 84 Wednesday
+157 68 Allison Carlat Larry Bird
+157 92 Gill
+157 0 Frederick Klein
+157 1 Terry Cannon
+157 2 Dennis Murphy
+158 nil nil
+158 nil nil
+158 nil nil
+158 nil nil
+158 nil nil
+159 8 Carol Franz David McClelland Joel Weinberger
+159 18 Andreco
+159 9 Hilary Antonia Foretich
+159 16 Rosko
+160 nil nil
+160 nil nil
+160 nil nil
+160 nil nil
+160 nil nil
+161 nil nil
+161 nil nil
+161 nil nil
+161 nil nil
+161 nil nil
+162 82 El Castillo
+162 0 Napoleon Bonaparte
+162 0 Hawass
+163 nil nil
+163 nil nil
+163 nil nil
+163 nil nil
+163 nil nil
+164 nil nil
+164 nil nil
+164 nil nil
+164 nil nil
+164 nil nil
+165 5 Switzerland
+165 17 San Jose Livermore
+165 63 France Austria
+165 5 West Coast
+165 3 Houston
+166 10 Brisbane Australia China Melbourne Canberra
+166 0 Melbourne Australia
+166 1 Melbourne Sydney Queensland
+166 13 Melbourne Sydney Brisbane
+166 1 Melbourne Los Angeles Auckland
+167 0 Scott Norwood
+167 9 Daniel Pollack
+167 24 Bill Bidwill
+167 30 Linda Blair
+167 6 Bush
+168 53 Port-of-Spain TRINIDAD Champs Fleurs Miami Jamaica
+168 11 Trinidad Tobago Caribbean Venezuela
+168 70 Fertrin Trinidad Tobago
+168 22 Trinidad Tobago
+168 27 Trinidad Tobago Venezuela
+169 14 Ilulissat Alaska Canada Siberia
+170 nil nil
+170 nil nil
+170 nil nil
+170 nil nil
+170 nil nil
+171 nil nil
+171 nil nil
+171 nil nil
+171 nil nil
+171 nil nil
+172 11 Ronald Reagan George Bush
+172 83 Jimmy Carter Anwar Sadat
+172 45 Bush Mikhail Gorbachev
+172 56 Reagan Barbara Embry
+172 0 Michael Dukakis George Bush Reagan
+173 10 Hirohito Akihito
+173 21 Emperor Akihito Empress Michiko
+173 3 Emperor Hirohito
+173 48 Vaclav Havel Emperor Akihito
+173 51 Akihito
+174 nil nil
+174 nil nil
+174 nil nil
+174 nil nil
+174 nil nil
+175 67 April 1993
+175 19 Sunday February
+175 20 June 1994
+176 52 Altay Kray Krasnodar Krasnoyarsk
+176 23 Morse Luck Hurder
+176 72 Carlos Klint Jose Custodio
+176 2 Glazer Liz Buyer
+176 4 Mathews Richard Boulanger Hermann Hesse
+177 39 Beverly Joubert America
+177 25 Cape Town
+177 42 New Orleans
+177 7 Flint
+178 nil nil
+178 nil nil
+178 nil nil
+178 nil nil
+178 nil nil
+179 nil nil
+179 nil nil
+179 nil nil
+179 nil nil
+179 nil nil
+180 25 Nilsen Thomas Sharpe Sherilyn Fenn
+180 7 Richard Holmes Cecily Mackworth
+180 6 Weaver
+180 70 Olympia
+181 29 Jesus Carrillo Muir High Josephine Ramos
+181 6 Childress
+182 nil nil
+182 nil nil
+182 nil nil
+182 nil nil
+182 nil nil
+183 1 Brad Drexler
+183 0 George Horner
+183 0 Hodgson
+183 0 Malloy
+184 86 1961
+184 52 Sunday
+184 11 Sunday 1961
+184 42 Wednesday 1987
+184 63 10
+185 nil nil
+185 nil nil
+185 nil nil
+185 nil nil
+185 nil nil
+186 nil nil
+186 nil nil
+186 nil nil
+186 nil nil
+186 nil nil
+187 2 Rod Bymaster
+187 3 Michinori Yamanouchi
+187 3 Yamanouchi
+187 4 Lloyd
+188 59 Latin America
+188 15 Cincinnati Japan Britain Germany Mexico.
+188 39 U.S.
+188 55 Germany
+188 1 South Carolina
+189 29 the week of
+189 2 11 months ago
+189 9 Wednesday
+189 13 Thursday
+189 15 1976
+190 29 Steve Haworth
+190 6 Keiji Shima Ted Turner
+190 23 Tom Johnson Steve Korn
+190 23 Marlene Fernandez Steve Haworth
+190 16 Hoeveler Terry Beinstock
+191 nil nil
+191 nil nil
+191 nil nil
+191 nil nil
+191 nil nil
+192 nil nil
+192 nil nil
+192 nil nil
+192 nil nil
+192 nil nil
+193 nil nil
+193 nil nil
+193 nil nil
+193 nil nil
+193 nil nil
+194 1 Basque Country
+194 5 San Sebastian Europe Spain
+194 7 Madrid
+194 4 Catalonia
+194 2 Spain Northern Ireland
+195 42 Schramm Jimmy Johnson Shula David
+195 9 Creighton Tull Chaney
+195 76 Mike Guadiana Ralph
+195 86 Jim Jane Cosgrove
+195 87 Cao Si Kiem
+196 57 Agoura Hills
+196 2 Boston Baltimore
+196 6 Somerset Maugham
+196 0 Baltimore New York
+196 2 Philadelphia
+197 nil nil
+197 nil nil
+197 nil nil
+197 nil nil
+197 nil nil
+198 51 1380 April
+198 49 Thursday 1989 June
+198 46 1926
+198 0 March 19 1982
+198 37 6
+199 nil nil
+199 nil nil
+199 nil nil
+199 nil nil
+199 nil nil
+200 nil nil
+200 nil nil
+200 nil nil
+200 nil nil
+200 nil nil
+201 52 Jim Henson
+201 3 Erwin Okun Henson
+202 nil nil
+202 nil nil
+202 nil nil
+202 nil nil
+202 nil nil
+203 nil nil
+203 nil nil
+203 nil nil
+203 nil nil
+203 nil nil
+204 nil nil
+204 nil nil
+204 nil nil
+204 nil nil
+204 nil nil
+205 87 Peter Spear
+205 60 Philip Knightley Philby Andrew Boyle
+205 60 Philby Gilbert Stone
+205 91 Walker
+205 1 Zimmermann
+206 34 London Vienna
+206 9 Indianapolis
+207 11 Georgetown Arkansas
+207 4 US
+207 17 U.S.
+208 36 Glasgow City London Southampton Lanarkshire Polytechnic Scotland Science Park
+208 60 Glasgow Edinburgh North Berwick Bathgate
+208 3 Greater Glasgow Western Europe
+208 25 Glasgow
+208 64 England Glasgow
+209 21 Biographer Robert Caro Dallek Lyndon Johnson David Grubin Marshall
+209 1 Mary Wortley Montagu William Cowper Thomas Gray Horace Walpole James
+209 7 Beckett Jerome Lindon Edith Fournier
+209 27 Kaplan Edgar Johnson Dickens John Forster
+209 34 Sinclair Lewis
+210 1 William Gibson
+210 4 Michael Benedikt
+210 1 Geof Wheelwright
+210 2 John Quarterman
+211 9 Juan Carlos Wasmosy Gonzalo Sanchez de Lozada Saul Menem
+211 62 Guido Di Tella Antonio Aranibar Gonzalo Sanchez Carlos Menem
+211 18 Sanchez de Lozada Frei
+211 95 Carlos Menem Juan Wasmosy Gonzalo Sanchez de Lozada
+211 3 Enrique Silva Cimma Gonzalo Sanchez de Lozada Patricio Aylwin
+212 nil nil
+212 nil nil
+212 nil nil
+212 nil nil
+212 nil nil
+213 15 Francis Walters Kory Abosada Tim Richard Soto Fred
+213 0 Christmas Carol Marley Charles Dickens Israel Horovitz
+213 2 George Choppelas Charles Dickens
+213 2 Jack Benny
+213 18 Charles Dickens
+214 2 Chuck Yeager
+214 27 David Dempsey
+214 51 Kapustin Yar
+214 62 Stan Barrett
+215 0 Todd Murphy
+215 4 Jim Jevicky
+216 4 Johnny Mack Brown Roy Rogers Robert Taylor Audie Murphy Bob
+216 0 Bonney Lincoln Sheriff Pat Garrett
+216 7 Eugene Loring Billy
+216 1 Garrey Carruthers Billy William Brady
+216 2 Walter Noble Burns Robin Hood
+217 28 Elizabeth II
+217 3 Benn
+217 16 Yeltsin
+217 32 Charles
+217 33 Zuma
+218 0 Amsterdam Manhattan New York
+218 0 New York Post Hires Amsterdam
+218 1 New York Amsterdam
+218 5 New York Post
+218 2 New York
+219 nil nil
+219 nil nil
+219 nil nil
+219 nil nil
+219 nil nil
+220 8 Woodstock upstate New York
+220 13 Woodstock
+220 4 Saugerties Woodstock
+220 18 Woodstock Altamont
+220 0 Woodstock Bethel
+221 17 Dmitri Volkogonov Geraldo Rivera Daniel Paisner Nancy Reagan Kitty Kelley
+221 20 Alan King Calvin
+221 4 Grinch Stole Christmas
+221 19 Linus Charlie Brown
+221 19 Charlie Brown
+222 nil nil
+222 nil nil
+222 nil nil
+222 nil nil
+222 nil nil
+223 nil nil
+223 nil nil
+223 nil nil
+223 nil nil
+223 nil nil
+224 4 Jake Styles
+225 nil nil
+225 nil nil
+225 nil nil
+225 nil nil
+225 nil nil
+226 57 Venezuela Haiti
+226 11 Venezuela United States France Canada
+226 1 Caracas Venezuela
+226 1 Venezuela United States Haiti
+226 2 Haiti Venezuela
+227 80 Sam Walton Dennis Jungmeyer
+227 40 Don Shinkle
+227 40 Sam Walton Shinkle
+227 41 Chappelle Sam Walton
+227 30 Sam
+228 50 Willard Scott
+229 nil nil
+229 nil nil
+229 nil nil
+229 nil nil
+229 nil nil
+230 nil nil
+230 nil nil
+230 nil nil
+230 nil nil
+230 nil nil
+231 76 last month
+231 0 Hall this year
+231 18 1970
+231 4 Monday night
+232 nil nil
+232 nil nil
+232 nil nil
+232 nil nil
+232 nil nil
+233 10 July 23 1986
+233 15 1840
+233 25 June
+233 18 July
+234 nil nil
+234 nil nil
+234 nil nil
+234 nil nil
+234 nil nil
+235 7 1990
+235 4 1968
+235 13 1970s 1975
+235 39 Wednesday
+236 0 Chicago
+236 2 Canada
+237 66 Africa Australia Antwerp Bombay New York Tel Aviv
+237 14 Africa Australia Zaire
+237 90 Schenectady N.Y.
+237 90 Japan
+237 9 South Africans
+238 6 1990
+238 20 1979
+238 20 1983 1986.
+238 33 1991 1988
+238 3 1989
+239 nil nil
+239 nil nil
+239 nil nil
+239 nil nil
+239 nil nil
+240 nil nil
+240 nil nil
+240 nil nil
+240 nil nil
+240 nil nil
+241 nil nil
+241 nil nil
+241 nil nil
+241 nil nil
+241 nil nil
+242 nil nil
+242 nil nil
+242 nil nil
+242 nil nil
+242 nil nil
+243 29 1985 March
+243 3 1948 1970s
+243 5 Tuesday
+244 6 Lloyd Chiate Lee Garrett
+245 8 Stephen Frears Hanif Kareishi Margaret Thatcher
+245 78 John Huston
+245 48 Steve Martin Darryl Hannah
+245 26 Juliet
+245 57 Mahatma Gandhi
+246 nil nil
+246 nil nil
+246 nil nil
+246 nil nil
+246 nil nil
+247 59 May
+247 9 1878
+248 nil nil
+248 nil nil
+248 nil nil
+248 nil nil
+248 nil nil
+249 nil nil
+249 nil nil
+249 nil nil
+249 nil nil
+249 nil nil
+250 4 Viniyoga Marin County Chidananda America Berkeley
+250 30 India San Francisco
+250 3 Yoga I-A
+250 4 India
+250 1 Southern California India
+251 0 1 1939 May 9 1945
+251 2 1 1939
+251 1 Thursday
+251 22 Friday
+251 19 1943
+252 nil nil
+252 nil nil
+252 nil nil
+252 nil nil
+252 nil nil
+253 94 Hoboken New York
+253 10 Los Angeles San Francisco
+253 3 Europe
+253 0 Los Angeles
+254 18 1960
+255 54 Thailand Burma Amherst Kanchanaburi Province
+255 67 Burma
+255 26 Burma Thailand
+255 31 Thailand Burma Moei River
+255 85 Singapore Burma North Korea
+256 0 Lloyd Chiate Lee Garrett
+256 49 Rew
+256 1 Lloyd Chiate
+257 2 1983
+257 9 1912
+258 nil nil
+258 nil nil
+258 nil nil
+258 nil nil
+258 nil nil
+259 81 Karl Kristofferson
+259 7 Sally Ride
+259 4 Bruce McCandless
+259 7 Lori Garver
+259 22 Hauck
+260 5 16th century May 1988
+260 2 1981 May
+260 3 16th century
+260 0 1500s
+260 0 1981
+261 nil nil
+261 nil nil
+261 nil nil
+261 nil nil
+261 nil nil
+262 0 Fred Lasswell Snuffy Smith Billy DeBeck
+262 96 Quayle Garry Trudeau
+262 0 Hinds Tank McNamara
+262 21 Berke
+262 0 Robb Armstrong
+263 55 Douglas
+263 94 Switzerland
+263 0 Europe
+264 10 Huck Finn
+265 nil nil
+265 nil nil
+265 nil nil
+265 nil nil
+265 nil nil
+266 28 1986 1987 1979
+266 20 March 1990 Oct. 1
+266 23 summer of 1986
+266 3 April 25 1986 1
+266 8 Friday
+267 35 Naguib Mahfouz
+267 1 Vicente Aleixandre Gabriel Garcia Marquez
+267 2 Octavio Paz
+267 21 Salman Rushdie
+267 8 David Neguib Mahfouz
+268 18 Edgar Allan Poe
+268 2 Lance Henricksen Moon Peter
+268 65 Edgar Allen Poe
+268 0 Pitts Christopher Cottle
+268 7 Collins
+269 nil nil
+269 nil nil
+269 nil nil
+269 nil nil
+269 nil nil
+270 nil nil
+270 nil nil
+270 nil nil
+270 nil nil
+270 nil nil
+271 28 Michael Hutchence Jim Morrison-like stoner Percy Bysshe Shelley Roger Corman
+271 18 McCabe Excene Cervenka Tony Gilkyson Steve Wynn Cindy Lee Berryhill
+271 25 Hagar Eddie Van Halen Alex Michael David
+271 20 Nickolai Noskov
+271 0 Gregg Tortell Humphrey
+272 nil nil
+272 nil nil
+272 nil nil
+272 nil nil
+272 nil nil
+273 18 11 1986 July 7 June 9 18
+273 6 2000
+273 12 1928
+273 23 1991
+273 0 Oct. 19 2000s
+274 1 Bruno Richard Hauptmann Charles Lindbergh
+274 20 King Henry VIII Catherine Howard
+274 61 Betty Douglas Marvin
+274 3 Lindbergh Ries
+274 31 Newman
+275 8 Andrey Kozyrev
+275 40 Butrus Butrus-Ghali
+275 40 Albright
+276 30 Sheila Benson Peter Rainer Kevin Thomas Michael Wilmington Daniel Day-Lewis
+276 12 Spike Lee Paul Mazursky Kenneth Branagh Gus Van Sant
+276 4 Ron Kovic Woody Allen Robin Williams Spike Lee
+276 20 John Keating Robin Williams Pickering
+276 9 Peter Weir Robin Williams John Keating
+277 11 Livermore City Hall Tesla Road
+277 0 Tesla Pardubice Tamara Oman
+277 0 United States Oman
+277 7 Tesla Yamanashi Prefecture
+277 3 Tesla
+278 nil nil
+278 nil nil
+278 nil nil
+278 nil nil
+278 nil nil
+279 nil nil
+279 nil nil
+279 nil nil
+279 nil nil
+279 nil nil
+280 nil nil
+280 nil nil
+280 nil nil
+280 nil nil
+280 nil nil
+281 nil nil
+281 nil nil
+281 nil nil
+281 nil nil
+281 nil nil
+282 31 Gilmour Nick Mason
+282 44 Traci Lords
+282 66 John Salley Dearden
+282 39 Mary
+283 64 1876 1982
+283 1 June 1979
+284 0 1970 1982 summer
+284 3 1992
+284 24 2000
+284 38 1970
+284 44 Tuesday
+285 nil nil
+285 nil nil
+285 nil nil
+285 nil nil
+285 nil nil
+286 nil nil
+286 nil nil
+286 nil nil
+286 nil nil
+286 nil nil
+287 nil nil
+287 nil nil
+287 nil nil
+287 nil nil
+287 nil nil
+288 nil nil
+288 nil nil
+288 nil nil
+288 nil nil
+288 nil nil
+289 nil nil
+289 nil nil
+289 nil nil
+289 nil nil
+289 nil nil
+290 nil nil
+290 nil nil
+290 nil nil
+290 nil nil
+290 nil nil
+291 59 Latin America
+291 15 Cincinnati Japan Britain Germany Mexico.
+291 39 U.S.
+291 31 U.S. Maalox
+291 55 Germany
+292 76 Latin America
+292 36 Cincinnati Japan Britain Germany Mexico.
+292 24 U.S.
+292 34 U.S. Maalox
+292 82 U.S. Europe
+293 0 Bill Fisher Charles Price
+293 55 John
+293 6 Bruce McCandless
+293 2 Richard Kohrs
+293 23 James Oberg
+294 16 Sergey Leskov Krikalev
+294 6 Krikalev Vladimir Titov Musa Manarov Valery Polyakov
+294 66 Dmitriy Payson Sergey Krikalev
+294 2 Anatoly Solovyov Alexander Balandin
+294 11 Jerry
+295 27 Sunday last year
+295 35 two years ago
+295 39 Wednesday afternoon
+295 68 Friday night
+295 8 Monday
+296 96 1987
+296 20 Wednesday night
+296 15 Fourth of July
+296 16 Sunday last year
+296 17 Tuesday night
+297 6 Keiji Shima Ted Turner
+297 29 Steve Haworth
+297 23 Tom Johnson Steve Korn
+297 23 Marlene Fernandez Steve Haworth
+297 16 Hoeveler Terry Beinstock
+298 1 Christian Hill
+299 nil nil
+299 nil nil
+299 nil nil
+299 nil nil
+299 nil nil
+300 nil nil
+300 nil nil
+300 nil nil
+300 nil nil
+300 nil nil
+301 nil nil
+301 nil nil
+301 nil nil
+301 nil nil
+301 nil nil
+302 nil nil
+302 nil nil
+302 nil nil
+302 nil nil
+302 nil nil
+303 3 Brandon Subdean Rex Davis John Nurser David Rutter Archdeacon Christopher
+303 3 Nurser Rutter Laurence Oliver Twistleton-Wykeham-Fiennes Davis
+303 5 King Hussein Jordan Elizabeth Halaby Queen Noor al-Hussein
+303 7 King Hussein Elizabeth Halaby Queen Noor al-Hussein
+303 8 Geoffrey Chaucer
+304 2 Brandon Subdean Rex Davis John Nurser David Rutter Archdeacon Christopher
+304 2 Nurser Rutter Laurence Oliver Twistleton-Wykeham-Fiennes Davis
+304 7 King Hussein Jordan Elizabeth Halaby Queen Noor al-Hussein
+304 9 King Hussein Elizabeth Halaby Queen Noor al-Hussein
+304 8 Geoffrey Chaucer
+305 69 United States
+305 7 Santa Clara County
+305 0 Boston
+306 1 Brad Drexler
+306 0 George Horner
+306 0 Hodgson
+306 0 Malloy
+307 71 Sunday
+307 96 1961
+308 nil nil
+308 nil nil
+308 nil nil
+308 nil nil
+308 nil nil
+309 46 Jim Henson
+310 0 Mickey Mouse Jim Henson
+310 34 Kermit Scott Jim Henson
+310 76 Jim Henson Miss Allison
+310 52 Jim Henson
+310 3 Henson Brian Jim
+311 nil nil
+311 nil nil
+311 nil nil
+311 nil nil
+311 nil nil
+312 nil nil
+312 nil nil
+312 nil nil
+312 nil nil
+312 nil nil
+313 nil nil
+313 nil nil
+313 nil nil
+313 nil nil
+313 nil nil
+314 63 Thursday 1989 June
+314 48 1380 April
+314 44 1926
+314 36 6
+314 0 March 19 1982
+315 75 Thursday 1989 June
+315 43 1926
+315 52 1380 April
+315 3 March 19 1982
+315 3 May 18 1980 16th century
+316 nil nil
+316 nil nil
+316 nil nil
+316 nil nil
+316 nil nil
+317 nil nil
+317 nil nil
+317 nil nil
+317 nil nil
+317 nil nil
+318 nil nil
+318 nil nil
+318 nil nil
+318 nil nil
+318 nil nil
+319 nil nil
+319 nil nil
+319 nil nil
+319 nil nil
+319 nil nil
+320 nil nil
+320 nil nil
+320 nil nil
+320 nil nil
+320 nil nil

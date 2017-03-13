@@ -1,0 +1,399 @@
+1 43 Stanley Weintraub Hamish Hamilton
+1 39 John Campbell Jonathan Cape Edward Heath
+1 1 Anthony Sampson
+1 65 Margaret Thatcher
+1 0 Thatcher Reagan Edward Heath
+2 3 Jeffery Lundgren Alice Elizabeth Damon Dennis Avery Cheryl Trina Rebecca
+2 1 Dennis Avery Cheryl Trina Rebecca Karen
+2 49 Marcos
+2 19 Terry Anderson
+2 17 Kris Lusic Nick
+3 29 MAY 93
+3 0 January 1989 November
+3 17 1992
+3 0 1981
+4 8 Fidel Ramos Li Teng-hui
+4 9 Chuan Likphai Li Teng-hui
+4 14 Li Teng-hui Suharto
+4 43 Suharto Fidel Ramos
+4 65 Li Teng-hui Fidel Ramos
+5 80 Bonnie Clyde Al Capone Amon Carter
+5 58 William Cunningham John Stuart
+5 4 Bill Clinton David Koresh
+5 14 David Koresh
+5 22 Louis Freeh
+6 nil nil
+6 nil nil
+6 nil nil
+6 nil nil
+6 nil nil
+7 74 Dan Quayle
+7 61 John Logsdon
+7 31 Menem Claude Nicolier
+7 3 Boris Yeltsin
+7 34 Alexander Serebrov
+8 16 three months to the end of June could fall 15
+8 40 1989
+8 71 1980s
+9 26 November
+9 7 summer of 1992
+9 31 1 Tuesday
+9 9 Thursday
+9 18 February
+10 13 1972 seven years later
+10 0 spring
+10 11 1972
+10 26 July 1970
+10 1 1971
+11 16 Jessica Tandy Shirley Valentine Pauline Collins Kathleen Turner Michael Douglas
+11 57 Dustin Hoffman Tom Cruise
+11 71 Joan Plowright Krichinsky
+11 78 Weaver Dian Fossey
+11 25 Tim Burton Johnny Depp
+12 2 Indonesia
+12 2 Kuala Lumpur Malaysia Indonesia
+12 0 East Java
+12 1 Malaysia Indonesia Ligitan Islands Jakarta
+12 4 Kuala Lumpur
+13 1 Lou Dials Bobby Robinson Gehrig Mel Ott Jimmie Foxx
+13 59 Michael George Bradley Pete Peterson
+13 3 Vin Scully Walt Whitman
+13 91 Dryden
+13 1 Dials
+14 nil nil
+14 nil nil
+14 nil nil
+14 nil nil
+14 nil nil
+15 nil nil
+15 nil nil
+15 nil nil
+15 nil nil
+15 nil nil
+16 2 Los Angeles Chappaqua N.Y. Manhattan New York
+17 nil nil
+17 nil nil
+17 nil nil
+17 nil nil
+17 nil nil
+18 87 Carter Colin Powell Sam Nunn
+18 96 Colin Powell Mr Bush Quayle
+18 43 Baker III Dick Cheney Brent Scowcroft
+18 49 Kim Gen Lee Yang-ho Pil-sup
+18 12 Powell Schwarzkopf
+19 nil nil
+19 nil nil
+19 nil nil
+19 nil nil
+19 nil nil
+20 0 Victor McKusick
+20 12 Walter Bodmer
+20 3 Watson
+20 29 Paul Krueger
+20 38 Bob Williamson Leopold Muller
+21 78 February
+21 3 1981 through 1985
+22 33 Ponce Teresa Marbella Cardenas Goldberg
+22 3 Barry Randal-Williams
+22 18 Charles Wilson
+22 19 Ken Olson
+22 37 Toni Fuster
+23 14 Yongbyon North Korea
+23 6 Yongbyon Pyongyang North Korea
+23 23 North Korea Yongbyon Pyongyang
+23 43 Beijing Yongbyon
+23 28 North Korea Yongbyon
+24 8 Maria Ybarra Jim Sills Henderson Bob Trettin
+24 54 Dick Hardick
+24 73 Maury Hanks
+24 77 Tracey Johnson
+25 0 1956 1990
+25 2 1960s 1970s 1972 1979 1985
+26 18 Mikhail Raisa Gorbachev Ronald Reagan Donald Kennedy Jeanne George
+26 6 Ronald Reagan Nancy Donald Kennedy George
+26 6 Gorbachev Ronald Reagan Roh Tae Woo
+26 1 Michael Boskin Bush
+26 10 David Starr Jordan
+27 nil nil
+27 nil nil
+27 nil nil
+27 nil nil
+27 nil nil
+28 6 Alyssa
+28 0 Smith Alyssa
+28 0 John Lake
+28 0 Christoph Broelsch
+28 0 Teresa
+29 1 second half of the 20th century
+29 18 Wednesday afternoon
+29 55 Thursday
+29 69 1963
+29 69 1978
+30 2 Yorkshire West Midlands Thames Valley North Britain London Scotland
+30 2 Wales England East Anglia Northern Ireland North
+30 0 San Diego County
+30 5 Dallas
+30 0 San Diego
+31 97 Jose Figueres Armando Calderon Sol Ramiro de Leon Carpio Carlos
+31 70 Alfredo Cristiani Violeta Chamorro Ramiro De Leon Carpio Carlos Roberto
+31 74 Fidel Castro Ezer Weizman Al Gore
+31 27 Guillermo Endara Rafael Angel Calderon Fournier Telemetro
+31 38 Ernesto Paz Aguilar Roberto Reyes Pineda Figueres
+32 35 Gary Karr Bobby McFerrin Hakan Hardenberger
+32 30 Frank Oz
+32 5 Henson Kermit
+32 52 Alan King Calvin
+32 30 SMITH
+33 nil nil
+33 nil nil
+33 nil nil
+33 nil nil
+33 nil nil
+34 38 air 18 years ago
+34 48 Friday 1 7 8
+34 40 Wednesday 9 Saturday
+34 16 1955
+34 31 Tueday night
+35 nil nil
+35 nil nil
+35 nil nil
+35 nil nil
+35 nil nil
+36 nil nil
+36 nil nil
+36 nil nil
+36 nil nil
+36 nil nil
+37 6 Kevin Costner Richard Harris Jeremy Irons Al Pacino Robin Williams
+37 6 Randy Newman John Barry Carmine Coppola Dave Grusin Ryuichi Sakamoto
+37 6 Armand Assante Bruce Davison Hector Elizondo Andy Garcia Al Pacino
+37 6 Bernardo Bertolucci Francis Ford Coppola Kevin Costner Barbet Schroeder Martin
+37 6 Michael Blake Nicholas Kazan Barry Levinson Pileggi Martin Scorsese
+38 52 Jean-Claude Killy Andrea Mead Lawrence Phil Mahre
+38 4 Greg Evangelatos Sherman Oaks Dave Kiley Mannino Linda Alexander
+38 15 Kidd
+38 0 Richard Cobbing Wilf Nicky Gooch
+38 49 Marc Hodler
+39 25 Kohl Richard von Weizsacker Willy Brandt
+39 26 Timothy Garton Ash Jonathan Cape Helmut Kohl
+39 39 Rudolf Scharping Hermann Axen
+39 39 Helmut Kohl Johannes Rau
+39 61 Jiri Hajek Willy Brandt
+40 5 James Watson
+40 36 Gregor Mendel
+41 89 Wolsey Hall
+42 0 Jeana Yeager Dick Rutan
+42 48 Ramsey Walter Cronkite
+42 3 Juan Capistrano
+42 22 Burt Rutan
+42 66 Mirnyi
+43 78 Simon Hidalgo Rosas
+43 6 Percy Sledge John Bardeux
+44 37 US Japan Europe Asia SE Long UK Govt
+44 27 US Japan Europe Pacific Edinburgh
+44 47 south-east Asia Hong Kong Thailand
+44 39 Japan
+44 78 US
+45 nil nil
+45 nil nil
+45 nil nil
+45 nil nil
+45 nil nil
+46 35 1996
+46 89 May June October
+46 16 June 13 10
+46 15 January
+46 17 September October
+47 nil nil
+47 nil nil
+47 nil nil
+47 nil nil
+47 nil nil
+48 nil nil
+48 nil nil
+48 nil nil
+48 nil nil
+48 nil nil
+49 96 Maria Elena Gil Fidel Castro Nelson Mandela
+49 87 George Cosmas Adyebo Jerry Rawlings Yoweri Museveni
+49 13 Enock Mahachi Robert Mugabe Rawlings
+49 13 Gilbert Diendere Blaise Compaore Rawlings
+49 8 Rawlings Eduardo dos Santos
+50 1 Jay Wilkerson Jim McConica Martha Jahn Karen Burton Chad Hundeby
+50 1 David Wharton Jager
+50 64 Lamberti Stephan Caron
+50 24 Kris Stoudt
+50 1 Matt Biondi Jager
+51 18 Hastings Banda Bakili Muluzi Chakufwa Chihana Kamlepo Kalua
+51 68 Jiang Zemin Elson Bakili Muluzi
+51 91 Kim Il-song Bakili Muluzi
+51 33 Bakili Muluzi Kamuzu Banda
+51 44 Mwinyi
+52 13 Murray
+52 13 Bruce Murray
+52 1 Jones
+52 13 Venus
+53 9 June 25 May Saturday
+53 74 June 25 Tuesday Saturday
+53 1 last Wednesday
+53 18 last September
+53 29 April 2 Saturday
+54 3 Perry Wolff
+54 4 William Dean
+54 91 Nancy Ross-Flanigan
+54 91 Charlie Petit
+54 1 Aldrin
+55 0 May 27
+56 2 Suisun Bay Port of Los Angeles San Pedro
+56 17 Los Angeles Southern California San Pedro
+56 1 San Pedro
+56 43 Sea Lions U.S.
+56 2 Wilmington
+57 4 Corey Parker Lara Flynn Boyle Elizabeth McGovern Brooke Shields
+57 2 Robert Abson Peter Bertholdt Leo van der Meer
+57 8 Alain Drach
+57 6 Jane Whitten Gerald Cubitt
+57 27 Holland
+58 16 Eduardo Frei Luis Alberto Lacalle Jose Maria Figueres
+58 50 Perez Balladares Guillermo Chapman Raul Arango Jose Luis Sosa Aristides
+58 2 Carlos Solchaga Felipe Gonzalez Fidel Castro
+58 93 Sergey Dorenko Boris Yeltsin Felipe Gonzalez
+58 23 Luis Ayllon
+59 30 Guatemala City PRENSA LIBRE Belize
+59 95 Quezon City MALAYA Luzon Police La Union
+59 11 United States Thailand Hawaii
+59 92 Islamabad Savannakhet Province Public
+59 95 Quezon City MALAYA Baguio
+60 0 Tsutomu Hata Wu Jianmin Tang Jiaxuan Li Peng
+60 16 Tsutomu Hata Koji Kakizawa
+60 21 Tang Jiaxuan Tsutomu Hata Koji Kakizawa
+60 53 Morihiro Hosokawa Kubo
+60 5 Jianmin Tang Jiaxuan Li Peng
+61 nil nil
+61 nil nil
+61 nil nil
+61 nil nil
+61 nil nil
+62 nil nil
+62 nil nil
+62 nil nil
+62 nil nil
+62 nil nil
+63 1 Richard Nixon McGovern JIMMY CARTER Carter Gerald Ford
+63 3 Bill Clinton Al Gore Bush Dan Quayle
+63 19 George Bush Bill Clinton
+63 2 George Bush Bill Clinton Ross Perot
+63 69 Garamendi Wes Bannister
+64 80 2000 1983
+64 15 Wednesday 20
+64 56 February 1988 1978
+64 23 20
+64 77 1976
+65 nil nil
+65 nil nil
+65 nil nil
+65 nil nil
+65 nil nil
+66 0 1789 Two hours after the early evening
+66 2 July 22
+66 18 July 14
+66 38 March
+66 3 Monday
+67 32 Matsushita
+68 65 late 1992
+68 44 thwarted 33 years ago
+68 44 Monday
+68 49 last spring
+68 44 Sunday
+69 2 Doug Baily Joseph Hazelwood
+69 36 William Sound
+69 14 Rawl
+69 59 William
+69 47 Dennis Kelso
+70 12 Jerry Reynolds Danny Ainge Byron Irvin
+70 1 Doug Collins
+70 25 Phil Jackson
+70 56 Jordan Michael
+70 9 Michael Jordan
+71 1 Borhanoddin Rabbani Sardar Faruq Ahmad Khan Laghari
+71 13 Borhanoddin Rabbani Ali Akbar Hashemi-Rafsanjani
+71 16 Borhanoddin Rabbani
+71 6 Borhanoddin Rabbani Islam Karimov
+71 78 Borhanoddin Rabbani Golboddin Hekmatyar
+72 36 Paul Pfingst Craig Peyer Barbara Jean Riley Jeanette Roache Daniel
+72 36 Richard Garcia Carol Hollstrom Donald McEvoy Irene Raymundo
+72 26 Ken Sulzer Leland Oliver
+72 81 Daniel Sullivan Carlo Goldoni
+72 62 Lenore Lowe
+73 nil nil
+73 nil nil
+73 nil nil
+73 nil nil
+73 nil nil
+74 nil nil
+74 nil nil
+74 nil nil
+74 nil nil
+74 nil nil
+75 50 1970
+75 7 Hall this year
+75 1 1824
+75 0 1807 1808
+75 0 May 1988
+76 nil nil
+76 nil nil
+76 nil nil
+76 nil nil
+76 nil nil
+77 1 89th anniversary of the end Battle
+77 39 1916
+77 15 April 21 1918
+77 0 1917
+77 31 5
+78 55 Luxembourg North America New York City Orlando
+78 55 Luxembourg Wiltz
+78 0 West Hall
+78 3 Sofiyanski
+78 12 Bulgaria
+79 95 Scottsdale
+79 81 Santa Monica Lincoln Park
+79 45 Fullerton
+79 0 Washington D.C.
+79 3 Illinois
+80 34 October last year
+81 16 Tehran Doha Iran Qatar
+81 14 Doha Qatar Israel Middle East
+81 1 Sanaa Egypt Syria Bahrain Oman Qatar
+81 59 Qatar Cuba
+81 38 America Qatar Iran
+82 nil nil
+82 nil nil
+82 nil nil
+82 nil nil
+82 nil nil
+83 nil nil
+83 nil nil
+83 nil nil
+83 nil nil
+83 nil nil
+84 55 Lake Richard Holbrooke Michael Mandelbaum Peter Tarnoff Warren Christopher Carter
+84 40 Lamar Alexander Bush Jack Kemp James
+84 0 Barbara Black Warren Christopher Jimmy Carter Erwin Griswold
+84 32 Caren Daniels Meade
+84 13 Kissinger Nixon
+85 62 Sardar Farooq Ahmad Khan Leghari Benazir Bhutto Borhanoddin Rabbani Golboddin
+85 5 Nixon
+85 33 Jean-Pierre Clerc Farooq Leghari Francois Mitterrand
+85 45 Nawabzada Nasrullah Khan
+85 16 Leghari Al Gore
+86 6 Wooley
+87 nil nil
+87 nil nil
+87 nil nil
+87 nil nil
+87 nil nil
+88 nil nil
+88 nil nil
+88 nil nil
+88 nil nil
+88 nil nil
